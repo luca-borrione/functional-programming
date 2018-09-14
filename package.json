@@ -1,0 +1,33 @@
+{
+  "name": "functional-programming",
+  "version": "1.0.0",
+  "description": "my journey through functional programming in js",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "^3.2.0",
+    "jshint": "^2.9.6",
+    "live-server": "^1.2.0"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luca-borrione/functional-programming.git"
+  },
+  "keywords": [
+    "js",
+    "functional",
+    "programming",
+    "currying",
+    "function",
+    "composition"
+  ],
+  "author": "Luca Borrione",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/luca-borrione/functional-programming/issues"
+  },
+  "homepage": "https://github.com/luca-borrione/functional-programming#readme"
+}
